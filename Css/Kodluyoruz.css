@@ -1,0 +1,30 @@
+/**Genel**/
+body {
+    background-color:white;
+    
+}
+
+h1  {
+    color: darkred;
+}
+h2  {
+    color:darkgreen;
+}
+h3  {
+    color:darkcyan;
+}
+
+a {
+    color:black;
+        
+    
+}
+p {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}    
+
+li {
+    list-style-position: inside;
+}
+
